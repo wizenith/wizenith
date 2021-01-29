@@ -7,13 +7,8 @@ I am wizenith, welcome to my github profile
 [![](https://img.shields.io/badge/-@wizneithc-%23181717?style=flat-square&logo=github)](https://github.com/wizenith?tab=repositories)
 
 <p align="left">
-
 <a href="https://www.linkedin.com/in/bill-chang-1a264117/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
-
-</p>
-
-<p align="left">
-  <a href="https://discord.gg/WjEFnzC"><img alt="Discord - Miku#0039" title="Discord - Miku#0039" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
+  <a href="https://discord.gg/RVHhHrB8"><img alt="Discord - Miku#0039" title="Discord - Miku#0039" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
   <!-- <a href="https://facebook.com/billxajo"><img alt="Facebook" title="Facebook" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg"></a> -->
   <!-- <a href="https://imgur.com/user/PeterTheHan"><img alt="Imgur" title="Imgur" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/imgur.svg"></a> -->
   <!-- <a href="https://myanimelist.net/profile/PeterTheHan"><img alt="MyAnimeList" title="MyAnimeList" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/myanimelist.svg"></a> -->
