@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-I am wizenith, welcome to my github profile
-
-
-
+I am wizenith, welcome to my github profile, edited by githubcodespace
 
 [![](https://img.shields.io/badge/-@wizneithc-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/@wizenithc)
 [![](https://img.shields.io/badge/-@wizneithc-%23181717?style=flat-square&logo=github)](https://github.com/wizenith?tab=repositories)
