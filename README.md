@@ -19,9 +19,9 @@ I am wizenith, welcome to my github profile, edited by githubcodespace
 </p>
 
 <p align="left">
-  <a href="https://ko-fi.com/billchang"><img alt="Ko-fi" title="Ko-fi" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/ko-fi.svg"></a>
-  <a href="https://www.patreon.com/billchang"><img alt="Patreon" title="Patreon" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/patreon.svg"></a>
-  <a href="https://paypal.me/wizenith"><img alt="PayPal" title="PayPal" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/paypal.svg"></a>
+  <a href="https://ko-fi.com/billchang"><img alt="Ko-fi" title="Ko-fi" height="10.5" width="31" src="https://storage.ko-fi.com/cdn/brandasset/logo_white_stroke_small.png"></a>
+  <a href="https://www.patreon.com/billchang"><img alt="Patreon" title="Patreon" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Patreon_logo.svg/541px-Patreon_logo.svg.png?20140225173435"></a>
+  <a href="https://paypal.me/wizenith"><img alt="PayPal" title="PayPal" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg"></a>
   <!-- <a href="https://venmo.com/peterthehan"><img alt="Venmo" title="Venmo" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/venmo.svg"></a> -->
 </p>
 <!--
